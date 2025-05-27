@@ -29,7 +29,7 @@ Dentro dele, encontramos recursos essenciais que potencializam o trabalho com da
 
 ##  Implementação Prática neste Projeto
 
-Para demonstrar o uso da plataforma, realizei os seguintes passos:
+Demonstrando o uso da plataforma, realizei os seguintes passos:
 
 1.  **Configuração do Ambiente:**
     * Criação de um **cluster** de computação para processar os dados.
